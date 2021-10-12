@@ -12,7 +12,7 @@ function Main(props) {
 
 // creating the footer
 function Footer(props) {
-  return <h3>Copy rights {props.year}</h3>;
+  return <h3>Copy rightsdd {props.year}</h3>;
 }
 export default function App() {
   return (
